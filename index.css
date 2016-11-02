@@ -1,6 +1,15 @@
 html {
   background: url("https://www.clipartsgram.com/image/461136230-background-websites1.jpg") center center fixed;
-  filter: blur(50px);
   background-size: cover;
 }
-  
+#picture {
+  background-color: #145A32;
+  display: table;
+  margin-top: 30%;
+  margin-left: 47%;
+  width: 70px;
+  height:70px;
+  border-radius: 40px;
+  text-align: center;
+  background-image: url("
+} 
