@@ -13,3 +13,16 @@ html {
   text-align: center;
   background-image: url("
 } 
+
+#name {
+  height: 70px;
+  width: 60px;
+  margin-left: 47.7%;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Comic Sans MS, Verdana, Courier;
+  text-align: center;
+  
+  
+    
+}
