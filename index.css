@@ -12,8 +12,8 @@ html {
   border-radius: 40px;
   text-align: center;
   background-image: url("http://rs958.pbsrc.com/albums/ae64/valaphar/knightdance4.gif~c200");
-    background-repeat: no-repeat;
-    background-size: contain;  
+  background-repeat: no-repeat;
+  background-size: contain;  
 }
   
 #name {
