@@ -1,4 +1,3 @@
-
 html {
   background: url("https://www.clipartsgram.com/image/461136230-background-websites1.jpg") center center fixed;
   background-size: cover;
@@ -25,7 +24,7 @@ html {
   font-weight: bold;
   font-family: Comic Sans MS, Verdana, Courier;
   text-align: center;
-  color: #C0C0C0;
+  color: #3498DB;
 }
 ul {
     margin-left: 42%;
